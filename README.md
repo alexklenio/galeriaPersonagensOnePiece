@@ -1,10 +1,13 @@
 # galeriaPersonagensOnePiece DEV em Dobro
+
+<div align="center">
 <p>
     <img src="https://img.shields.io/github/languages/count/alexklenio/galeriaPersonagensOnePiece"/>
     <img src="https://img.shields.io/github/repo-size/alexklenio/galeriaPersonagensOnePiece"/>
     <img src="https://img.shields.io/github/last-commit/alexklenio/galeriaPersonagensOnePiece"/>
     <img src="https://img.shields.io/github/issues/alexklenio/galeriaPersonagensOnePiece"/>
 </p>
+</div>
 
 ## Tecnologias 
 
@@ -24,3 +27,4 @@ Este projeto fez parte da "Semana do zero ao programador contratado" do canal De
 ## License
 
 Este projeto está sob a licença do MIT. Consulte o arquivo [LICENÇA](https://github.com/alexklenio/galeriaPersonagensOnePiece/blob/main/LICENSE) para mais detalhes.
+
